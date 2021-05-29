@@ -4,6 +4,8 @@ multimedia data structure assignment
 ## 환경
 Linux 서버(학과 서버), vi Editor   
 
+<hr/>
+
 ## Assignment #1
 ### 두 행렬의 곱(MXN) 구하기
 - M(axb)과 N(bxc)은 단순연결리스트 구조
