@@ -2,13 +2,13 @@
 multimedia data structure assignment
 
 
-Assignment #1
+##### Assignment #1
 ### 두 행렬의 곱(MXN) 구하기 ###
 - M(axb)과 N(bxc)은 단순연결리스트 구조
 - 각 행렬의 성분들은 1 ~ 10,000 사이의 난수 값
 - 수행 결과는 L에 저장
 
-#2
+Assignment #2
 ### 다항식의 곱 multPoly() 구현 ###
 - 우선순위 {}, () 고려하기
 - 띄어쓰기 고려 X
@@ -19,16 +19,16 @@ Assignment #1
 - 다항식 구조
 ![2_linkedlist](https://user-images.githubusercontent.com/67675422/120058213-53dadb00-c084-11eb-9cc0-e19b59981b8e.jpg)
 
-#3
+Assignment #3
 ### 두 행렬의 곱(MXN) 구하기 ###
 - M(axb)과 N(bxc)은 단순연결리스트 구조
 - 각 행렬의 성분들은 1 ~ 10,000 사이의 난수 값
 - 수행 결과는 L에 저장
 
-#4
+Assignment #4
 ### 두 행렬의 곱(MXN) 구하기 ###
 - M(axb)과 N(bxc)은 단순연결리스트 구조
 - 각 행렬의 성분들은 1 ~ 10,000 사이의 난수 값
 - 수행 결과는 L에 저장
 
-#5 (ing)
+Assignment #5 (ing)
