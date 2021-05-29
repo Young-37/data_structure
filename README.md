@@ -1,6 +1,8 @@
 # data_structure
 multimedia data structure assignment
 
+## 환경
+Linux 서버(학과 서버), vi Editor
 
 ## Assignment #1
 ### 두 행렬의 곱(MXN) 구하기
@@ -29,9 +31,11 @@ multimedia data structure assignment
 ![3_circular](https://user-images.githubusercontent.com/67675422/120058522-61916000-c086-11eb-83f1-0fe00bb980ab.jpg)
 
 ## Assignment #4
-### 두 행렬의 곱(MXN) 구하기
-- M(axb)과 N(bxc)은 단순연결리스트 구조
-- 각 행렬의 성분들은 1 ~ 10,000 사이의 난수 값
-- 수행 결과는 L에 저장
+### 연결리스트 기반 multi-queue 구현
+- 각각의 sub Queue는 다른 sub Queue 침범 불가능
+- s(전체 큐의 최대 크기) * 3 크기만큼 루프 실행
+- 루프: 랜덤으로 사용할 큐 선택, 1(=enQueue) 또는 2(=deQueue) 랜덤으로 실행
+- multi-queue 구조
+![4_multiqueue](https://user-images.githubusercontent.com/67675422/120058582-e9776a00-c086-11eb-8334-6b9e77c0422c.jpg)
 
 Assignment #5 (ing)
